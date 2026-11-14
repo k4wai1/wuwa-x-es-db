@@ -1,12 +1,11 @@
 /* WUWA X ES — Archivo de tweets de https://x.com/WW_ES_Official
  * Generado automáticamente por wuwa-x-es-archive. NO EDITAR A MANO.
- * Actualizado: 2026-11-14T17:14:53Z
- * Tweets: 2421
+ * Tweets: 2421 · Último tweet: 2026-11-13T04:30:59Z
  * Fuente: https://x.com/WW_ES_Official
  */
 var WUWA_ES = {
   "meta": {
-    "updated_at": "2026-11-14T17:14:53Z",
+    "updated_at": "2026-11-14T17:15:32Z",
     "count": 2421,
     "first": "2023-08-19T00:00:00Z",
     "last": "2026-11-13T04:30:59Z",
