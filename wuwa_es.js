@@ -1,12 +1,12 @@
 /* WUWA X ES — Archivo de tweets de https://x.com/WW_ES_Official
  * Generado automáticamente por wuwa-x-es-archive. NO EDITAR A MANO.
- * Actualizado: 2026-11-14T17:04:11Z
+ * Actualizado: 2026-11-14T17:14:14Z
  * Tweets: 2421
  * Fuente: https://x.com/WW_ES_Official
  */
 var WUWA_ES = {
   "meta": {
-    "updated_at": "2026-11-14T17:04:11Z",
+    "updated_at": "2026-11-14T17:14:14Z",
     "count": 2421,
     "first": "2023-08-19T00:00:00Z",
     "last": "2026-11-13T04:30:59Z",
@@ -28631,6 +28631,10 @@ var WUWA_ES = {
         {
           "kind": "video",
           "url": "https://video.twimg.com/amplify_video/2120116857286037504/vid/avc1/2520x1080/4ueP98iGkFu9lf9V.mp4"
+        },
+        {
+          "kind": "video",
+          "url": "https://video.twimg.com/amplify_video/2120116857286037504/vid/avc1/2520x1080/4ueP98iGkFu9lf9V.mp4?tag=29"
         }
       ]
     },
@@ -28874,6 +28878,10 @@ var WUWA_ES = {
         {
           "kind": "video",
           "url": "https://video.twimg.com/amplify_video/2120779175535726592/vid/avc1/1080x1920/d_ViSDC9Cwq8gVQM.mp4"
+        },
+        {
+          "kind": "video",
+          "url": "https://video.twimg.com/amplify_video/2120779175535726592/vid/avc1/1080x1920/d_ViSDC9Cwq8gVQM.mp4?tag=29"
         }
       ]
     },
