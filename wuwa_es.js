@@ -1,14 +1,14 @@
 /* WUWA X ES — Archivo de tweets de https://x.com/WW_ES_Official
  * Generado automáticamente por wuwa-x-es-archive. NO EDITAR A MANO.
- * Tweets: 2421 · Último tweet: 2026-11-13T04:30:59Z
+ * Tweets: 2422 · Último tweet: 2026-11-16T03:00:01Z
  * Fuente: https://x.com/WW_ES_Official
  */
 var WUWA_ES = {
   "meta": {
-    "updated_at": "2026-11-14T17:36:12Z",
-    "count": 2421,
+    "updated_at": "2026-11-16T04:15:06Z",
+    "count": 2422,
     "first": "2023-08-19T00:00:00Z",
-    "last": "2026-11-13T04:30:59Z",
+    "last": "2026-11-16T03:00:01Z",
     "source": "https://x.com/WW_ES_Official",
     "generated_by": "wuwa-x-es-archive"
   },
@@ -29719,6 +29719,19 @@ var WUWA_ES = {
         {
           "kind": "imagen",
           "url": "https://pbs.twimg.com/media/HW-n0l5bsAATh4T.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2122162749279232443",
+      "date": "2026-11-16T03:00:01Z",
+      "text": "«Y recuérdanos. Recuerda los pecados por los que las Ciudades Federadas deben pagar. Para que esta tragedia nunca se repita».\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/72dxtzWeRt",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2122162749279232443",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXLD1_XbgAAXq1O.jpg"
         }
       ]
     }
