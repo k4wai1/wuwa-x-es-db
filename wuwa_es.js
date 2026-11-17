@@ -1,14 +1,14 @@
 /* WUWA X ES — Archivo de tweets de https://x.com/WW_ES_Official
  * Generado automáticamente por wuwa-x-es-archive. NO EDITAR A MANO.
- * Tweets: 2423 · Último tweet: 2026-11-17T03:00:00Z
+ * Tweets: 2426 · Último tweet: 2026-11-17T11:00:03Z
  * Fuente: https://x.com/WW_ES_Official
  */
 var WUWA_ES = {
   "meta": {
-    "updated_at": "2026-11-17T04:15:03Z",
-    "count": 2423,
+    "updated_at": "2026-11-17T16:15:05Z",
+    "count": 2426,
     "first": "2023-08-19T00:00:00Z",
-    "last": "2026-11-17T03:00:00Z",
+    "last": "2026-11-17T11:00:03Z",
     "source": "https://x.com/WW_ES_Official",
     "generated_by": "wuwa-x-es-archive"
   },
@@ -29745,6 +29745,65 @@ var WUWA_ES = {
         {
           "kind": "video",
           "url": "https://video.twimg.com/amplify_video/2122344134761762816/vid/avc1/1080x1920/pCNtGSS8yWsNlHKV.mp4?tag=29"
+        }
+      ]
+    },
+    {
+      "id": "2122615726859309545",
+      "date": "2026-11-17T09:00:00Z",
+      "text": "Wuthering Waves «Lirios en un sueño marchito» OST - «Flowers in a Dream» ya está disponible en Spotify, Apple Music y otras plataformas. ¡Disfruta de este cautivador viaje de sonidos resonantes!\n\n►Spotify: https://t.co/z331Q8oqqK\n►Apple Music: https://t.co/Pj53Uf1cNv\n\n#WutheringWaves #WutheringWavesES",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2122615726859309545",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXS7Q_db0AEfhow.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXS7TDQa0AAZ7Mf.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXS7T-6bgAA9fDP.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXS7Us7bIAA0s2Z.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2122616985859022896",
+      "date": "2026-11-17T09:05:00Z",
+      "text": "Wuthering Waves «Segunda venida de Solaris: Sueños no escritos» OST - «After School Hours» ya está disponible en Spotify, Apple Music y otras plataformas. ¡Disfruta de este cautivador viaje de sonidos resonantes!\n\n►Spotify: https://t.co/9MAe7Zu7U4\n►Apple Music: https://t.co/HHuauILt1Q\n\n#WutheringWaves #WutheringWavesES",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2122616985859022896",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXTCCLlaQAAOxdt.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXTCGiiaEAEohJo.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXTCHQCbIAADp0h.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2122645940654035056",
+      "date": "2026-11-17T11:00:03Z",
+      "text": "Canal nocturno de Podcast Pionero | Lily\n\nQue tu alma no vague más. \nQue la belleza de nuestros sueños ilumine la realidad.\n\n※Aviso: haz clic en el icono CC para activar los subtítulos y disfrutar de una mejor experiencia.\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/iWji0CJQPp",
+      "type": "VIDEO",
+      "url": "https://x.com/WW_ES_Official/status/2122645940654035056",
+      "media": [
+        {
+          "kind": "video",
+          "url": "https://video.twimg.com/amplify_video/2122525718970261504/vid/avc1/1920x1080/6SDBJ72lSKUlzBn2.mp4?tag=29"
         }
       ]
     }
