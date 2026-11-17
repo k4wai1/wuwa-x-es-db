@@ -1,14 +1,14 @@
 /* WUWA X ES — Archivo de tweets de https://x.com/WW_ES_Official
  * Generado automáticamente por wuwa-x-es-archive. NO EDITAR A MANO.
- * Tweets: 2422 · Último tweet: 2026-11-16T03:00:01Z
+ * Tweets: 2423 · Último tweet: 2026-11-17T03:00:00Z
  * Fuente: https://x.com/WW_ES_Official
  */
 var WUWA_ES = {
   "meta": {
-    "updated_at": "2026-11-16T04:15:06Z",
-    "count": 2422,
+    "updated_at": "2026-11-17T04:15:03Z",
+    "count": 2423,
     "first": "2023-08-19T00:00:00Z",
-    "last": "2026-11-16T03:00:01Z",
+    "last": "2026-11-17T03:00:00Z",
     "source": "https://x.com/WW_ES_Official",
     "generated_by": "wuwa-x-es-archive"
   },
@@ -29732,6 +29732,19 @@ var WUWA_ES = {
         {
           "kind": "imagen",
           "url": "https://pbs.twimg.com/media/HXLD1_XbgAAXq1O.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2122525131817865286",
+      "date": "2026-11-17T03:00:00Z",
+      "text": "Hora de despertarse...\n\n«Mmm... ¿Estaba flotando por las nubes?»\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/tZx8DrKM2T",
+      "type": "VIDEO",
+      "url": "https://x.com/WW_ES_Official/status/2122525131817865286",
+      "media": [
+        {
+          "kind": "video",
+          "url": "https://video.twimg.com/amplify_video/2122344134761762816/vid/avc1/1080x1920/pCNtGSS8yWsNlHKV.mp4?tag=29"
         }
       ]
     }
