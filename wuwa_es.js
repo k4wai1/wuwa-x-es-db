@@ -1,14 +1,14 @@
 /* WUWA X ES — Archivo de tweets de https://x.com/WW_ES_Official
  * Generado automáticamente por wuwa-x-es-archive. NO EDITAR A MANO.
- * Tweets: 2426 · Último tweet: 2026-11-17T11:00:03Z
+ * Tweets: 2435 · Último tweet: 2026-11-18T03:35:00Z
  * Fuente: https://x.com/WW_ES_Official
  */
 var WUWA_ES = {
   "meta": {
-    "updated_at": "2026-11-17T16:15:05Z",
-    "count": 2426,
+    "updated_at": "2026-11-18T04:15:10Z",
+    "count": 2435,
     "first": "2023-08-19T00:00:00Z",
-    "last": "2026-11-17T11:00:03Z",
+    "last": "2026-11-18T03:35:00Z",
     "source": "https://x.com/WW_ES_Official",
     "generated_by": "wuwa-x-es-archive"
   },
@@ -29804,6 +29804,123 @@ var WUWA_ES = {
         {
           "kind": "video",
           "url": "https://video.twimg.com/amplify_video/2122525718970261504/vid/avc1/1920x1080/6SDBJ72lSKUlzBn2.mp4?tag=29"
+        }
+      ]
+    },
+    {
+      "id": "2122872423120826539",
+      "date": "2026-11-18T02:00:01Z",
+      "text": "«Bloques de Lahai-Roi: Giros» Evento casual\n\nPrepárate para la nueva actualización de «Bloques de Lahai-Roi»: ¡Y ahora trae la anhelada función de rotar! Se rumorea que la actualización podría traer más mecánicas ocultas...\n\n✦Duración del evento✦\n19/11/2026 04:00 - 03/12/2026 03:59 (hora del servidor)\n\n✦Recompensas del evento✦\nAstrita x400, Poción de Resonancia premium x9, Núcleo de energía premium x6, Tubo Sellado premium x6, Suministro avanzado de falsificación: Lahai-Roi x14, Caja de materiales avanzada: Tierra de Xuanfang x28, Moneda Caparazón x239,999\n\n✦Requisitos de participación✦\nAlcanza el nivel 14 de Unión.\n\n✦Detalles del evento✦\n· Se desbloqueará una nueva fase cada día durante el evento. Cada fase tiene dos dificultades: fácil y difícil. Supera la dificultad fácil para desbloquear el desafío difícil. Completa los objetivos de cada fase para obtener recompensas.\n· Arrastra los bloques a la cuadrícula. Completa una fila o columna para eliminar bloques y ganar puntos. Cuando se agote el lote de bloques suministrado en la parte derecha, se proveerá un lote nuevo.\n· Se añade la función de rotación de bloques. Arrastra y gira los bloques para colocarlos en los huecos y eliminarlos más rápido.\n· Incluye 2 modos. Modo por puntos: Elimina varias líneas simultáneamente para ganar más puntos. Alcanza la puntuación objetivo para superar la fase. Modo recolección de medallas: Elimina bloques que contengan medallas para recolectarlas. Alcanza la cantidad objetivo de medallas para superar la fase.\n\n#WutheringWaves #WutheringWavesES",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2122872423120826539",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXU9XQWa8AAq76F.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2122886358918480115",
+      "date": "2026-11-18T02:55:23Z",
+      "text": "En el abrazo de Promeus\n\nWuthering Waves: Embers of the Everbright — Capítulo del año estará disponible el 22 de diciembre. ¡Estad al tanto!\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 https://t.co/EgZTcKKupZ",
+      "type": "VIDEO",
+      "url": "https://x.com/WW_ES_Official/status/2122886358918480115",
+      "media": [
+        {
+          "kind": "video",
+          "url": "https://video.twimg.com/amplify_video/2122691948997939200/vid/avc1/2560x1080/rfBSu2T48f-wC-uZ.mp4?tag=29"
+        }
+      ]
+    },
+    {
+      "id": "2122888777060495365",
+      "date": "2026-11-18T03:05:00Z",
+      "text": "Rosas y deseos\n\n¡Wuthering Waves: Embers of the Everbright — Capítulo del año estará disponible el 22 de diciembre!\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Anna https://t.co/V7eAXmCJsE",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2122888777060495365",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXU_-2daUAAAC2Z.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2122890034990952682",
+      "date": "2026-11-18T03:10:00Z",
+      "text": "Verdad e ilusión\n\n¡Wuthering Waves: Embers of the Everbright — Capítulo del año estará disponible el 22 de diciembre!\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #April https://t.co/QdgBC7ztnp",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2122890034990952682",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXVAWb5bIAAXZdD.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2122891293072248878",
+      "date": "2026-11-18T03:15:00Z",
+      "text": "Silencio y filo afilado\n\n¡Wuthering Waves: Embers of the Everbright — Capítulo del año estará disponible el 22 de diciembre!\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Gordia https://t.co/RL1u3WHUyr",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2122891293072248878",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXVAndpbcAEkOr7.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2122892551078240385",
+      "date": "2026-11-18T03:20:00Z",
+      "text": "Futuro y mentiras\n\n¡Wuthering Waves: Embers of the Everbright — Capítulo del año estará disponible el 22 de diciembre!\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Lucielle https://t.co/xiKrk5PEsF",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2122892551078240385",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXVA0V0bMAAwwpb.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2122893809260663182",
+      "date": "2026-11-18T03:25:00Z",
+      "text": "Sangre pecadora y lluvia purificadora\n\n¡Wuthering Waves: Embers of the Everbright — Capítulo del año estará disponible el 22 de diciembre!\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Cairn https://t.co/Y3twYxR0Nq",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2122893809260663182",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXVA_UqaAAEd6uk.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2122895069703237821",
+      "date": "2026-11-18T03:30:00Z",
+      "text": "Ovni y resplandor\n\n¡Wuthering Waves: Embers of the Everbright — Capítulo del año estará disponible el 22 de diciembre!\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #IYA https://t.co/fPkIMQxhIE",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2122895069703237821",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXVBO3WbMAA1RzM.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2122896326153130019",
+      "date": "2026-11-18T03:35:00Z",
+      "text": "Huesos y pasados\n\n¡Wuthering Waves: Embers of the Everbright — Capítulo del año estará disponible el 22 de diciembre!\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Simulsys https://t.co/OriV6hA7tt",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2122896326153130019",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXVBaZlaoAABsyR.jpg"
         }
       ]
     }
