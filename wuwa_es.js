@@ -1,14 +1,14 @@
 /* WUWA X ES — Archivo de tweets de https://x.com/WW_ES_Official
  * Generado automáticamente por wuwa-x-es-archive. NO EDITAR A MANO.
- * Tweets: 2435 · Último tweet: 2026-11-18T03:35:00Z
+ * Tweets: 2436 · Último tweet: 2026-11-18T06:00:00Z
  * Fuente: https://x.com/WW_ES_Official
  */
 var WUWA_ES = {
   "meta": {
-    "updated_at": "2026-11-18T04:15:10Z",
-    "count": 2435,
+    "updated_at": "2026-11-18T16:15:04Z",
+    "count": 2436,
     "first": "2023-08-19T00:00:00Z",
-    "last": "2026-11-18T03:35:00Z",
+    "last": "2026-11-18T06:00:00Z",
     "source": "https://x.com/WW_ES_Official",
     "generated_by": "wuwa-x-es-archive"
   },
@@ -29921,6 +29921,19 @@ var WUWA_ES = {
         {
           "kind": "imagen",
           "url": "https://pbs.twimg.com/media/HXVBaZlaoAABsyR.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2122932817281560708",
+      "date": "2026-11-18T06:00:00Z",
+      "text": "Errantes, ¡vuestra invitación a la Nueva Federación ha llegado!\n\n¡Wuthering Waves: Embers of the Everbright — Capítulo del año llega el 22 de diciembre y ya podéis preinscribiros en su página!\n▶ ¡Preinscribíos para ganar astritas tras el lanzamiento!\n▶ ¡Elegid Resonador para que aparezca en el tique de preinscripción de la Nueva Federación!\nPágina del evento: https://t.co/sjZiXpIL80\nHabrá más eventos de preinscripción, ¡estad al tanto!\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2122932817281560708",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXYjhJaaUAAjCqd.jpg"
         }
       ]
     }
