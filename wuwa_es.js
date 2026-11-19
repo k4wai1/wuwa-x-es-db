@@ -1,14 +1,14 @@
 /* WUWA X ES — Archivo de tweets de https://x.com/WW_ES_Official
  * Generado automáticamente por wuwa-x-es-archive. NO EDITAR A MANO.
- * Tweets: 2436 · Último tweet: 2026-11-18T06:00:00Z
+ * Tweets: 2438 · Último tweet: 2026-11-19T03:05:00Z
  * Fuente: https://x.com/WW_ES_Official
  */
 var WUWA_ES = {
   "meta": {
-    "updated_at": "2026-11-18T16:15:04Z",
-    "count": 2436,
+    "updated_at": "2026-11-19T04:15:04Z",
+    "count": 2438,
     "first": "2023-08-19T00:00:00Z",
-    "last": "2026-11-18T06:00:00Z",
+    "last": "2026-11-19T03:05:00Z",
     "source": "https://x.com/WW_ES_Official",
     "generated_by": "wuwa-x-es-archive"
   },
@@ -29934,6 +29934,32 @@ var WUWA_ES = {
         {
           "kind": "imagen",
           "url": "https://pbs.twimg.com/media/HXYjhJaaUAAjCqd.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2123249925152723114",
+      "date": "2026-11-19T03:00:04Z",
+      "text": "Antropoceno de poslamento: Estrellas cruzadas\n\n«La noche es larga y tus deseos saben a vino». — Anna\n\nArchivo \u0026gt;\u0026gt;\nSeñora de Viejo Edén. Figura gris que camina entre tonos blancos y negros.\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Anna https://t.co/9dq011PzPI",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2123249925152723114",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXaMmwSb0AAWxLN.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2123251164695380476",
+      "date": "2026-11-19T03:05:00Z",
+      "text": "Antropoceno de poslamento: Estrellas cruzadas — Anna\n\nForte \u003e\u003e Desfiladero carmesí\nElegante saqueadora de deseos, no hay anhelo que escape a su atenta mirada. Ni siquiera aquellos deseos que moran en lo más profundo del alma, de los cuales ni el propio sujeto que desea es consciente, escapan a sus ojos. Para Anna, los apegos y deseos cobran formas florales y espinosas.\nAdemás de ser capaz de usar deseos tras transformarlos en rosas rojas como la sangre, las cuales recoge, también tiene capacidades de control mental. Es capaz de «cortar» la memoria conectada a los deseos así recogidos. Puede hacer que de los deseos que sostiene en su mano broten espinas. Cuando esto sucede, se transforman en brutales armas de color carmesí que hacen trizas al enemigo.\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Anna",
+      "type": "VIDEO",
+      "url": "https://x.com/WW_ES_Official/status/2123251164695380476",
+      "media": [
+        {
+          "kind": "video",
+          "url": "https://video.twimg.com/amplify_video/2123057767640637441/vid/avc1/1080x1920/H5FJcF0W36nVAO-d.mp4?tag=29"
         }
       ]
     }
