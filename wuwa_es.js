@@ -1,14 +1,14 @@
 /* WUWA X ES — Archivo de tweets de https://x.com/WW_ES_Official
  * Generado automáticamente por wuwa-x-es-archive. NO EDITAR A MANO.
- * Tweets: 2438 · Último tweet: 2026-11-19T03:05:00Z
+ * Tweets: 2440 · Último tweet: 2026-11-20T03:05:00Z
  * Fuente: https://x.com/WW_ES_Official
  */
 var WUWA_ES = {
   "meta": {
-    "updated_at": "2026-11-19T04:15:04Z",
-    "count": 2438,
+    "updated_at": "2026-11-20T04:15:15Z",
+    "count": 2440,
     "first": "2023-08-19T00:00:00Z",
-    "last": "2026-11-19T03:05:00Z",
+    "last": "2026-11-20T03:05:00Z",
     "source": "https://x.com/WW_ES_Official",
     "generated_by": "wuwa-x-es-archive"
   },
@@ -29960,6 +29960,32 @@ var WUWA_ES = {
         {
           "kind": "video",
           "url": "https://video.twimg.com/amplify_video/2123057767640637441/vid/avc1/1080x1920/H5FJcF0W36nVAO-d.mp4?tag=29"
+        }
+      ]
+    },
+    {
+      "id": "2123612298715791662",
+      "date": "2026-11-20T03:00:01Z",
+      "text": "Antropoceno de poslamento: Estrellas cruzadas\n\n«¡Tranqui! ¡A partir de ahora, déjamelo todo a mí!» — Lucielle\n\nArchivo \u003e\u003e\nBuscadora de Oro de orejas gatunas, natural de Roca Búfalo. Busca convertirse en una líder de confianza.\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Lucielle",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2123612298715791662",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXfX1KmaAAAKPMS.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2123613552900768063",
+      "date": "2026-11-20T03:05:00Z",
+      "text": "Antropoceno de poslamento: Estrellas cruzadas — Lucielle\n\nForte \u003e\u003e Moldeado de Tacetita\nLucielle es afín a la Tacetita, siendo capaz de comunicarse con las Criaturas Remanentes desde muy temprana edad. Las moldea usando polvo de Tacetita, trayendo aliados así conformados al campo de batalla.\nLucielle puede iniciar un simulacro de temporada de tormentas para invocar a su acompañante, un Glaucoros. Junto al resto de criaturas de Tacetita a sus órdenes, gata y Glaucoros luchan hombro con hombro, confrontando a sus enemigos frontalmente.\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Lucielle",
+      "type": "VIDEO",
+      "url": "https://x.com/WW_ES_Official/status/2123613552900768063",
+      "media": [
+        {
+          "kind": "video",
+          "url": "https://video.twimg.com/amplify_video/2123403452730728448/vid/avc1/1080x1920/cZh-3UbdDyuBoLjv.mp4?tag=29"
         }
       ]
     }
