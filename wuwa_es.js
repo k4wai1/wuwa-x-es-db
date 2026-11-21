@@ -1,14 +1,14 @@
 /* WUWA X ES — Archivo de tweets de https://x.com/WW_ES_Official
  * Generado automáticamente por wuwa-x-es-archive. NO EDITAR A MANO.
- * Tweets: 2440 · Último tweet: 2026-11-20T03:05:00Z
+ * Tweets: 2444 · Último tweet: 2026-11-21T04:05:00Z
  * Fuente: https://x.com/WW_ES_Official
  */
 var WUWA_ES = {
   "meta": {
-    "updated_at": "2026-11-20T04:15:15Z",
-    "count": 2440,
+    "updated_at": "2026-11-21T04:15:06Z",
+    "count": 2444,
     "first": "2023-08-19T00:00:00Z",
-    "last": "2026-11-20T03:05:00Z",
+    "last": "2026-11-21T04:05:00Z",
     "source": "https://x.com/WW_ES_Official",
     "generated_by": "wuwa-x-es-archive"
   },
@@ -29986,6 +29986,58 @@ var WUWA_ES = {
         {
           "kind": "video",
           "url": "https://video.twimg.com/amplify_video/2123403452730728448/vid/avc1/1080x1920/cZh-3UbdDyuBoLjv.mp4?tag=29"
+        }
+      ]
+    },
+    {
+      "id": "2123974685109194891",
+      "date": "2026-11-21T03:00:01Z",
+      "text": "Vista previa del personaje | Anna\n\nAtributo: Fusión\nArma: Rectificador\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Anna https://t.co/LV7FYRQroJ",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2123974685109194891",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXkdWwNboAAAFMc.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2123975941449712030",
+      "date": "2026-11-21T03:05:00Z",
+      "text": "«Tu deseo ahora es mío».\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Anna https://t.co/dFV4YcBf1N",
+      "type": "VIDEO",
+      "url": "https://x.com/WW_ES_Official/status/2123975941449712030",
+      "media": [
+        {
+          "kind": "video",
+          "url": "https://video.twimg.com/amplify_video/2123761417308471296/vid/avc1/1080x1920/GcQpY7-8zPfX6Pyt.mp4?tag=29"
+        }
+      ]
+    },
+    {
+      "id": "2123989782938190278",
+      "date": "2026-11-21T04:00:00Z",
+      "text": "Vista previa del personaje | Lucielle\n\nAtributo: Espectro\nArma: Pistolas\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Lucielle https://t.co/S2TLMmyYF6",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2123989782938190278",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXkeHJZa8AA-0n9.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2123991039245451504",
+      "date": "2026-11-21T04:05:00Z",
+      "text": "«Je, je. ¡Ahora me toca lucirme!»\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Lucielle https://t.co/JEEx71ltTQ",
+      "type": "VIDEO",
+      "url": "https://x.com/WW_ES_Official/status/2123991039245451504",
+      "media": [
+        {
+          "kind": "video",
+          "url": "https://video.twimg.com/amplify_video/2123762008013279232/vid/avc1/1080x1920/DWZzKnloQ1RR-d0T.mp4?tag=29"
         }
       ]
     }
