@@ -1,14 +1,14 @@
 /* WUWA X ES — Archivo de tweets de https://x.com/WW_ES_Official
  * Generado automáticamente por wuwa-x-es-archive. NO EDITAR A MANO.
- * Tweets: 2445 · Último tweet: 2026-11-22T04:00:00Z
+ * Tweets: 2446 · Último tweet: 2026-11-23T04:00:01Z
  * Fuente: https://x.com/WW_ES_Official
  */
 var WUWA_ES = {
   "meta": {
-    "updated_at": "2026-11-22T16:15:02Z",
-    "count": 2445,
+    "updated_at": "2026-11-23T04:15:04Z",
+    "count": 2446,
     "first": "2023-08-19T00:00:00Z",
-    "last": "2026-11-22T04:00:00Z",
+    "last": "2026-11-23T04:00:01Z",
     "source": "https://x.com/WW_ES_Official",
     "generated_by": "wuwa-x-es-archive"
   },
@@ -29480,7 +29480,7 @@ var WUWA_ES = {
       "date": "2026-11-11T03:10:00Z",
       "text": "[Versión 3.8 Invocación de Resonadores/armas destacada - Fase Ⅰ]\n\nLas Invocaciones de Resonadores destacadas [Florecimiento de sueños pasados], [Momento del resplandor rúnico] y [Trotamundos no sabe de distancias], junto con las Invocaciones de armas destacadas [Arrullo dulce], [Interpretación Solística] y [Sentencia esmeralda], estarán disponibles pronto.\n✦Duración del evento: Desde el lanzamiento de la versión 3.8 - 03/12/2026 09:59 (hora del servidor)\n✦Para más información, visita: https://t.co/ryoIwJTM14\n\n#WutheringWaves #WutheringWavesES",
       "type": "IMAGEN",
-      "url": "https://x.com/WW_ES_Official/status/2120353319629594925",
+      "url": "https://x.com/i/status/2120353319629594925",
       "media": [
         {
           "kind": "imagen",
@@ -29505,7 +29505,7 @@ var WUWA_ES = {
       "date": "2026-11-11T03:15:00Z",
       "text": "«Reverberaciones de la vía estelar II» Invocación de Resonadores de retorno\n\nDurante el evento, las probabilidades de invocar a los personajes de 5 estrellas (Camellya, Roccia, Phoebe y Brant) y a los personajes de 4 estrellas (Sanhua, Danjin y Chixia) estarán temporalmente aumentadas.\n\n✦Duración del evento✦\nDesde el lanzamiento de la versión 3.8 - 21/12/2026 11:59 (hora del servidor)\n\n✦Requisitos de participación✦\n· Alcanza el nivel 5 de Unión.\n· O completa el combate simulado en la misión principal «Primera resonancia».\n· O a través de la función «Avance rápido en misión principal», sigue las indicaciones para llegar al nodo correspondiente de la misión principal.\n\n✦Reglas de invocación✦\n· Es un evento del tipo «Invocación de Resonadores de retorno». Los Errantes pueden usar «Marea radiante» para invocar, con la garantía de obtener contenido de 4 estrellas o superior (incluye personajes y armas) cada 10 invocaciones.\n· Todos los eventos de «Invocación de Resonadores de retorno» comparten el sistema de garantía de 5 estrellas. El conteo de garantía se acumula entre todos los eventos de «Invocación de Resonadores de retorno» y se reinicia al obtener un personaje de 5 estrellas. La garantía se conservará para la próxima «Invocación de Resonadores de retorno».\n· Puedes seleccionar un personaje de 5 estrellas como objetivo entre los destacados para aumentar su tasa de obtención. Puedes cambiar tu selección en cualquier momento. Cada vez que obtienes un personaje de 5 estrellas, hay un 50% de probabilidad de que sea el personaje seleccionado y un 50% de que sea cualquier otro personaje de 5 estrellas no destacado. Si no obtienes al personaje seleccionado, el siguiente personaje de 5 estrellas que consigas estará garantizado. (Todos los personajes de 5 estrellas no destacados tienen la misma probabilidad de obtención.)\n· Lista de los personajes destacados: Camellya, Roccia, Phoebe y Brant.\n· Las Bandas de ondas de estos personajes destacados estarán disponibles en la [Tienda - Coral postbrillante] durante el evento, con un límite de compra de 2 veces. Se retirarán de la tienda una vez finalizado el evento.\n\n✦Regalos de la vía estelar✦\n· Durante el evento, se contabilizarán las invocaciones de Resonadores de retorno realizadas. Al alcanzar ciertas cantidades, desbloquearás recompensas.\n· Las recompensas no reclamadas al finalizar el evento se enviarán automáticamente a tu correo dentro del juego si inicias sesión en los siguientes 30 días.\n※ Durante el evento «Reverberaciones de la vía estelar II», también estará disponible el evento «Regalos de la vía estelar». Ten en cuenta que el progreso de este último es independiente del de las versiones anteriores.\n\n※ Para más detalles, consulta la pantalla Invocar dentro del juego.\n\n#WutheringWaves #WutheringWavesES",
       "type": "IMAGEN",
-      "url": "https://x.com/WW_ES_Official/status/2120354578852192530",
+      "url": "https://x.com/i/status/2120354578852192530",
       "media": [
         {
           "kind": "imagen",
@@ -29518,7 +29518,7 @@ var WUWA_ES = {
       "date": "2026-11-11T03:20:00Z",
       "text": "«Reverberaciones de forjamareas II» Invocación de armas de retorno\n\nDurante el evento, ¡aumentan las prob. de invocar las armas de 5 estrellas (Primavera roja, Tragicomedia, Himno luminoso y Valor inquebrantable), y las armas de 4 estrellas (Comando de convicción, Variación y Guardián de Jinzhou)!\n\n✦Duración del evento✦\nDesde el lanzamiento de la versión 3.8 - 21/12/2026 11:59 (hora del servidor)\n\n✦Requisitos de participación✦\n· Alcanza el nivel 5 de Unión.\n· O completa el combate simulado en la misión principal «Primera resonancia».\n· O a través de la función «Avance rápido en misión principal», sigue las indicaciones para llegar al nodo correspondiente de la misión principal.\n\n✦Reglas de invocación✦\n· «Reverberaciones de forjamareas II» es un evento del tipo «Invocación de armas de retorno». Utiliza «Marea de forja» para invocar. Tienes garantizado al menos un personaje o arma de 4 estrellas o superior cada 10 intentos.\n· Todos los eventos de «Invocación de armas de retorno» comparten el sistema de garantía de 5 estrellas. El conteo de garantía para obtener un arma de 5 estrellas se acumula entre todos los eventos de «Invocación de armas de retorno» y se reinicia al obtener un arma de 5 estrellas. La garantía se conservará para la próxima «Invocación de armas de retorno».\n· Puedes seleccionar un arma de 5 estrellas como objetivo entre las destacadas para aumentar su tasa de obtención. Puedes cambiar tu selección en cualquier momento. Una vez que obtengas un arma de 5 estrellas, estará garantizado que sea la que hayas seleccionado.\n· Lista de las armas destacadas: Primavera roja, Tragicomedia, Himno luminoso y Valor inquebrantable.\n\n※ Para más detalles, consulta la pantalla Invocar dentro del juego.\n\n#WutheringWaves #WutheringWavesES",
       "type": "IMAGEN",
-      "url": "https://x.com/WW_ES_Official/status/2120355836245758230",
+      "url": "https://x.com/i/status/2120355836245758230",
       "media": [
         {
           "kind": "imagen",
@@ -29531,7 +29531,7 @@ var WUWA_ES = {
       "date": "2026-11-11T09:00:06Z",
       "text": "Wuthering Waves EP3.8 - Lily «Lily Grace» ya está disponible en Spotify, Apple Music y otras plataformas. ¡Disfruta de este cautivador viaje de sonidos resonantes!\n\nEl Fondo de pantalla del EP Lily ya está disponible— ¡Dale un toque de serenidad a tu pantalla!\n\n►Spotify: https://t.co/MJu6tjZcLS\n►Apple Music: https://t.co/Pz3zhxyDrc\n\n#WutheringWaves #WutheringWavesES #Lily",
       "type": "IMAGEN",
-      "url": "https://x.com/WW_ES_Official/status/2120441425087127578",
+      "url": "https://x.com/i/status/2120441425087127578",
       "media": [
         {
           "kind": "imagen",
@@ -29548,7 +29548,7 @@ var WUWA_ES = {
       "date": "2026-11-11T10:00:02Z",
       "text": "Retrospectiva | Filo dentro del bambú - Qiuyuan\n\nExagente sénior de la Agencia de Seguridad Interna de Mingting.\nAunque la animadversión caracterizó su juventud, la lealtad definió su madurez. Sin embargo, convertido en el chivo expiatorio de un asesinato, ahora no es más que un espadachín ciego que vaga solo por el mundo.\n\n▼Consulta el enlace para más información: https://t.co/UAqPritkUb\n\n#WutheringWaves #WutheringWavesES #Qiuyuan",
       "type": "IMAGEN",
-      "url": "https://x.com/WW_ES_Official/status/2120456507015778760",
+      "url": "https://x.com/i/status/2120456507015778760",
       "media": [
         {
           "kind": "imagen",
@@ -29573,7 +29573,7 @@ var WUWA_ES = {
       "date": "2026-11-11T11:00:00Z",
       "text": "Vista previa del evento | Evento casual «Segunda venida de Solaris: Sueños no escritos», ¡disponible pronto!\n\n✦Duración del evento✦\nTras la actualización de la versión 3.8 - 21/12/2026 11:59 (hora del servidor)\n\n✦Recompensas del evento✦\nAstrita x1200, Temporada de graduaciones (Sello del evento), Entre clases (Avatar del evento), Pose para selfies: Saludo (Pose para selfies), Expresión para selfies: Con estilo (Expresiones para selfies), Portada escolar (Marcos de fotos), Modificador, Afinador premium, Tubo Sellado premium, Poción de Resonancia premium, Núcleo de energía premium, Moneda Caparazón y otros materiales de mejora.\n\n#WutheringWaves #WutheringWavesES",
       "type": "IMAGEN",
-      "url": "https://x.com/WW_ES_Official/status/2120471601317925113",
+      "url": "https://x.com/i/status/2120471601317925113",
       "media": [
         {
           "kind": "imagen",
@@ -29598,7 +29598,7 @@ var WUWA_ES = {
       "date": "2026-11-11T12:00:01Z",
       "text": "Revelación de ganadores del Evento de Creación de Aficionados de Wuthering Waves\n\nEl Evento de Creación de Aficionados de Wuthering Waves «Ilusión del prisma, luz del corazón» ha concluido, y queremos expresar nuestro más sincero agradecimiento a todos los participantes por su dedicación y creatividad en nuestro evento de arte de aficionados.\n¡Vamos a ver las obras ganadoras y sus autores!\n▼Consulta el enlace para más información: https://t.co/HN4nogeAKh\n\n#WutheringWaves #WutheringWavesES #WuWaFanart",
       "type": "IMAGEN",
-      "url": "https://x.com/WW_ES_Official/status/2120486703659958288",
+      "url": "https://x.com/i/status/2120486703659958288",
       "media": [
         {
           "kind": "imagen",
@@ -29611,7 +29611,7 @@ var WUWA_ES = {
       "date": "2026-11-12T02:00:24Z",
       "text": "Detalles de la vers. 3.8: Lirios en un sueño marchito\n\nQuerido/a Errante:\n\nGracias por tu apoyo constante. La versión 3.8 «Lirios en un sueño marchito» estará disponible pronto.\n\nHora de mantenimiento y compensación\n✦Duración del mantenimiento: 12/11/2026 04:00 - 12/11/2026 11:00 (UTC+8)\n✦Compensación por mantenimiento: Astrita x300, Solvente de Cristal x2\n✦Condiciones de la compensación: Crea un personaje y desbloquea la función [Correo] antes de las 04:00 (UTC+8) del 12/11/2026. La hora de recepción será antes del mantenimiento y actualización de la versión siguiente.\n※ En caso de que se prolongue el mantenimiento, el equipo de desarrollo publicará un nuevo aviso y ajustará la compensación en consecuencia.\n\n✦Compensación por solución de problemas: Astrita x300\n✦Condiciones de la compensación: Crea un personaje y desbloquea la función [Correo] antes de las 04:00 (UTC+8) del 12/11/2026. La hora de recepción será antes del mantenimiento y actualización de la versión siguiente.\n\n[Hora de finalización de algunos eventos]\nLos siguientes eventos finalizarán tras la versión 3.8. No te pierdas estos eventos:\n✦«Mátrix: Ultimus S2- Vanguardia de la adversidad», hora de finalización: 22/12/2026 03:59 (UTC+8)\n\n▼Consulta el enlace para más información: https://t.co/YGsEBWSwxM\n\n#WutheringWaves #WutheringWavesES",
       "type": "IMAGEN",
-      "url": "https://x.com/WW_ES_Official/status/2120698192350310416",
+      "url": "https://x.com/i/status/2120698192350310416",
       "media": [
         {
           "kind": "imagen",
@@ -29624,7 +29624,7 @@ var WUWA_ES = {
       "date": "2026-11-12T03:00:29Z",
       "text": "«En tu sueño, estaré ahí para iluminar el camino».\n\n¡Wuthering Waves Versión 3.8 «Lirios en un sueño marchito» ya está disponible!\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/ulVWticF45",
       "type": "IMAGEN",
-      "url": "https://x.com/WW_ES_Official/status/2120713312770093354",
+      "url": "https://x.com/i/status/2120713312770093354",
       "media": [
         {
           "kind": "imagen",
@@ -29637,7 +29637,7 @@ var WUWA_ES = {
       "date": "2026-11-12T03:30:33Z",
       "text": "Querido/a Errante:\n\n¡El evento V3.8 Wuthering Waves Twitch Drops empieza hoy!\nVe las transmisiones en vivo de Wuthering Waves en Twitch para obtener recompensas, incluidas Astritas. Recuerda que solo las recibirás si tu cuenta de Twitch está vinculada a tu cuenta de Wuthering Waves.\n►Horario del evento: Del 12/11/2026 al 10/12/2026 (UTC+1)\n►Vinculación de cuenta: https://t.co/MoTum3y79g\n\n#WutheringWaves #WutheringWavesES",
       "type": "IMAGEN",
-      "url": "https://x.com/WW_ES_Official/status/2120720879189635234",
+      "url": "https://x.com/i/status/2120720879189635234",
       "media": [
         {
           "kind": "imagen",
@@ -29650,7 +29650,7 @@ var WUWA_ES = {
       "date": "2026-11-12T04:00:35Z",
       "text": "El sol brilla, los ánimos están por las nubes...\n¡Es el momento ideal para poner en marcha las actividades extraescolares!\n\n¡Segunda venida de Solaris: Sueños no escritos ya está disponible! ¡Comienza una historia inolvidable en la Escuela Solaris II!\n\n#WutheringWaves #WutheringWavesES",
       "type": "IMAGEN",
-      "url": "https://x.com/WW_ES_Official/status/2120728439552651587",
+      "url": "https://x.com/i/status/2120728439552651587",
       "media": [
         {
           "kind": "imagen",
@@ -29663,7 +29663,7 @@ var WUWA_ES = {
       "date": "2026-11-12T07:30:00Z",
       "text": "Queridos Errantes, \n¡El evento de creación de fans de Wuthering Waves «Lirios en un sueño marchito» ya está en vivo!\n\nPublica tu trabajo con los hashtags #WutheringWaves y #WuWaFanart en X (Twitter)/Instagram/Facebook y completa el formulario para tener la oportunidad de ganar un iPhone 18 Pro de 512G, Astritas y más. \n¡Crea tus obras de imaginación infinita para presentar el mundo de Wuthering Waves! \n▼Procede a enviar: https://t.co/6ye42iJfyU\n\n▼Consulta el enlace para más información: https://t.co/ruQZqPmOpH\n\n#WutheringWaves #WutheringWavesES #WuWaFanart",
       "type": "IMAGEN",
-      "url": "https://x.com/WW_ES_Official/status/2120781141372473733",
+      "url": "https://x.com/i/status/2120781141372473733",
       "media": [
         {
           "kind": "imagen",
@@ -29684,7 +29684,7 @@ var WUWA_ES = {
       "date": "2026-11-12T10:00:04Z",
       "text": "Momentos del personaje | Lily\n\nAun así, sin retirada.\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/GRQMPmMjqU",
       "type": "VIDEO",
-      "url": "https://x.com/WW_ES_Official/status/2120818904536658284",
+      "url": "https://x.com/i/status/2120818904536658284",
       "media": [
         {
           "kind": "video",
@@ -29701,7 +29701,7 @@ var WUWA_ES = {
       "date": "2026-11-13T03:00:51Z",
       "text": "Los niños se adentran hacia el bosque Bjartr, atraídos por el brillo de las runas, que forman una matriz estelar sobre las copas de los árboles.\n\n#WutheringWaves #WutheringWavesES #Sigrika https://t.co/gCK82uKeaI",
       "type": "IMAGEN",
-      "url": "https://x.com/WW_ES_Official/status/2121075793283727764",
+      "url": "https://x.com/i/status/2121075793283727764",
       "media": [
         {
           "kind": "imagen",
@@ -29714,7 +29714,7 @@ var WUWA_ES = {
       "date": "2026-11-13T04:30:59Z",
       "text": "Querido/a Errante:\n¡El evento de inicio de sesión en Discord de Wuthering Waves V3.8 está activo hoy!\n\n►Discord: https://t.co/f4qipQWJGY\nÚnete a nuestro servidor oficial de Discord y vincula tu cuenta de Discord para ganar Astrita participando en el evento de inicio de sesión.\n¡Consulta el enlace a continuación para unirte al servidor oficial de Discord de Wuthering Waves, y recuerda iniciar sesión diariamente para obtener emocionantes recompensas!\n\nDuración del evento: 13/11/2026 - 26/11/2026 (UTC+8)\nReglas del evento: Visita el servidor de Discord del evento para obtener información detallada.\n\n#WutheringWaves #WutheringWavesES",
       "type": "IMAGEN",
-      "url": "https://x.com/WW_ES_Official/status/2121098475068916215",
+      "url": "https://x.com/i/status/2121098475068916215",
       "media": [
         {
           "kind": "imagen",
@@ -29727,7 +29727,7 @@ var WUWA_ES = {
       "date": "2026-11-16T03:00:01Z",
       "text": "«Y recuérdanos. Recuerda los pecados por los que las Ciudades Federadas deben pagar. Para que esta tragedia nunca se repita».\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/72dxtzWeRt",
       "type": "IMAGEN",
-      "url": "https://x.com/WW_ES_Official/status/2122162749279232443",
+      "url": "https://x.com/i/status/2122162749279232443",
       "media": [
         {
           "kind": "imagen",
@@ -29740,7 +29740,7 @@ var WUWA_ES = {
       "date": "2026-11-17T03:00:00Z",
       "text": "Hora de despertarse...\n\n«Mmm... ¿Estaba flotando por las nubes?»\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/tZx8DrKM2T",
       "type": "VIDEO",
-      "url": "https://x.com/WW_ES_Official/status/2122525131817865286",
+      "url": "https://x.com/i/status/2122525131817865286",
       "media": [
         {
           "kind": "video",
@@ -29753,7 +29753,7 @@ var WUWA_ES = {
       "date": "2026-11-17T09:00:00Z",
       "text": "Wuthering Waves «Lirios en un sueño marchito» OST - «Flowers in a Dream» ya está disponible en Spotify, Apple Music y otras plataformas. ¡Disfruta de este cautivador viaje de sonidos resonantes!\n\n►Spotify: https://t.co/z331Q8oqqK\n►Apple Music: https://t.co/Pj53Uf1cNv\n\n#WutheringWaves #WutheringWavesES",
       "type": "IMAGEN",
-      "url": "https://x.com/WW_ES_Official/status/2122615726859309545",
+      "url": "https://x.com/i/status/2122615726859309545",
       "media": [
         {
           "kind": "imagen",
@@ -29778,7 +29778,7 @@ var WUWA_ES = {
       "date": "2026-11-17T09:05:00Z",
       "text": "Wuthering Waves «Segunda venida de Solaris: Sueños no escritos» OST - «After School Hours» ya está disponible en Spotify, Apple Music y otras plataformas. ¡Disfruta de este cautivador viaje de sonidos resonantes!\n\n►Spotify: https://t.co/9MAe7Zu7U4\n►Apple Music: https://t.co/HHuauILt1Q\n\n#WutheringWaves #WutheringWavesES",
       "type": "IMAGEN",
-      "url": "https://x.com/WW_ES_Official/status/2122616985859022896",
+      "url": "https://x.com/i/status/2122616985859022896",
       "media": [
         {
           "kind": "imagen",
@@ -30071,6 +30071,19 @@ var WUWA_ES = {
         {
           "kind": "imagen",
           "url": "https://pbs.twimg.com/media/HXke7K-bcAA9IAt.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2124714563685777820",
+      "date": "2026-11-23T04:00:01Z",
+      "text": "Sabes que el sueño terminará algún día, pero los recuerdos seguirán brillando en la memoria.\n\n——————————————————\n[¡Un nuevo mensaje!]\n«Qué bueno tenerte de vuelta».\n«¿Qué tal tu viaje esta vez? ¿Todo bien?»\n\n\u003e\u003e\u003e Visita la web del evento «Segunda venida de Solaris: Sueños no escritos» para consultar el mensaje: https://t.co/G2WeOp5KiJ\n\n►Enlace de descarga de las ilustraciones: https://t.co/sCJjqagYxT\n\n#WutheringWaves #WutheringWavesES",
+      "type": "IMAGEN",
+      "url": "https://x.com/i/status/2124714563685777820",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HXxyvs3agAAZQO5.jpg"
         }
       ]
     }
