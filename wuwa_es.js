@@ -1,14 +1,14 @@
 /* WUWA X ES — Archivo de tweets de https://x.com/WW_ES_Official
  * Generado automáticamente por wuwa-x-es-archive. NO EDITAR A MANO.
- * Tweets: 2446 · Último tweet: 2026-11-23T04:00:01Z
+ * Tweets: 2447 · Último tweet: 2026-11-24T12:00:02Z
  * Fuente: https://x.com/WW_ES_Official
  */
 var WUWA_ES = {
   "meta": {
-    "updated_at": "2026-11-24T04:15:02Z",
-    "count": 2446,
+    "updated_at": "2026-11-24T16:15:03Z",
+    "count": 2447,
     "first": "2023-08-19T00:00:00Z",
-    "last": "2026-11-23T04:00:01Z",
+    "last": "2026-11-24T12:00:02Z",
     "source": "https://x.com/WW_ES_Official",
     "generated_by": "wuwa-x-es-archive"
   },
@@ -30084,6 +30084,19 @@ var WUWA_ES = {
         {
           "kind": "imagen",
           "url": "https://pbs.twimg.com/media/HXxyvs3agAAZQO5.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2125197749146485096",
+      "date": "2026-11-24T12:00:02Z",
+      "text": "Wuthering Waves «Stars Intertwined Music Selection Vol.4» ya está disponible en Spotify, Apple Music y otras plataformas. ¡Disfruta de este cautivador viaje de sonidos resonantes!\n\n►Spotify: https://t.co/RVWbYNYSvR\n►Apple Music: https://t.co/kElLcNhhL6\n\n#WutheringWaves #WutheringWavesES",
+      "type": "IMAGEN",
+      "url": "https://x.com/i/status/2125197749146485096",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HX4qerea0AEfvOY.jpg"
         }
       ]
     }
