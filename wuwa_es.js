@@ -5,7 +5,7 @@
  */
 var WUWA_ES = {
   "meta": {
-    "updated_at": "2026-11-26T09:38:56Z",
+    "updated_at": "2026-11-26T16:15:03Z",
     "count": 2451,
     "first": "2023-08-19T00:00:00Z",
     "last": "2026-11-26T04:00:00Z",
@@ -29825,7 +29825,7 @@ var WUWA_ES = {
       "date": "2026-11-18T02:55:23Z",
       "text": "En el abrazo de Promeus\n\nWuthering Waves: Embers of the Everbright — Capítulo del año estará disponible el 22 de diciembre. ¡Estad al tanto!\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 https://t.co/EgZTcKKupZ",
       "type": "VIDEO",
-      "url": "https://x.com/i/status/2122886358918480115",
+      "url": "https://x.com/WW_ES_Official/status/2122886358918480115",
       "media": [
         {
           "kind": "video",
@@ -29877,7 +29877,7 @@ var WUWA_ES = {
       "date": "2026-11-18T03:20:00Z",
       "text": "Futuro y mentiras\n\n¡Wuthering Waves: Embers of the Everbright — Capítulo del año estará disponible el 22 de diciembre!\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Lucielle https://t.co/xiKrk5PEsF",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2122892551078240385",
+      "url": "https://x.com/WW_ES_Official/status/2122892551078240385",
       "media": [
         {
           "kind": "imagen",
@@ -29890,7 +29890,7 @@ var WUWA_ES = {
       "date": "2026-11-18T03:25:00Z",
       "text": "Sangre pecadora y lluvia purificadora\n\n¡Wuthering Waves: Embers of the Everbright — Capítulo del año estará disponible el 22 de diciembre!\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Cairn https://t.co/Y3twYxR0Nq",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2122893809260663182",
+      "url": "https://x.com/WW_ES_Official/status/2122893809260663182",
       "media": [
         {
           "kind": "imagen",
@@ -29903,7 +29903,7 @@ var WUWA_ES = {
       "date": "2026-11-18T03:30:00Z",
       "text": "Ovni y resplandor\n\n¡Wuthering Waves: Embers of the Everbright — Capítulo del año estará disponible el 22 de diciembre!\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #IYA https://t.co/fPkIMQxhIE",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2122895069703237821",
+      "url": "https://x.com/WW_ES_Official/status/2122895069703237821",
       "media": [
         {
           "kind": "imagen",
@@ -29916,7 +29916,7 @@ var WUWA_ES = {
       "date": "2026-11-18T03:35:00Z",
       "text": "Huesos y pasados\n\n¡Wuthering Waves: Embers of the Everbright — Capítulo del año estará disponible el 22 de diciembre!\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Simulsys https://t.co/OriV6hA7tt",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2122896326153130019",
+      "url": "https://x.com/WW_ES_Official/status/2122896326153130019",
       "media": [
         {
           "kind": "imagen",
@@ -29929,7 +29929,7 @@ var WUWA_ES = {
       "date": "2026-11-18T06:00:00Z",
       "text": "Errantes, ¡vuestra invitación a la Nueva Federación ha llegado!\n\n¡Wuthering Waves: Embers of the Everbright — Capítulo del año llega el 22 de diciembre y ya podéis preinscribiros en su página!\n▶ ¡Preinscribíos para ganar astritas tras el lanzamiento!\n▶ ¡Elegid Resonador para que aparezca en el tique de preinscripción de la Nueva Federación!\nPágina del evento: https://t.co/sjZiXpIL80\nHabrá más eventos de preinscripción, ¡estad al tanto!\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2122932817281560708",
+      "url": "https://x.com/WW_ES_Official/status/2122932817281560708",
       "media": [
         {
           "kind": "imagen",
@@ -29942,7 +29942,7 @@ var WUWA_ES = {
       "date": "2026-11-19T03:00:04Z",
       "text": "Antropoceno de poslamento: Estrellas cruzadas\n\n«La noche es larga y tus deseos saben a vino». — Anna\n\nArchivo \u0026gt;\u0026gt;\nSeñora de Viejo Edén. Figura gris que camina entre tonos blancos y negros.\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Anna https://t.co/9dq011PzPI",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2123249925152723114",
+      "url": "https://x.com/WW_ES_Official/status/2123249925152723114",
       "media": [
         {
           "kind": "imagen",
@@ -29955,7 +29955,7 @@ var WUWA_ES = {
       "date": "2026-11-19T03:05:00Z",
       "text": "Antropoceno de poslamento: Estrellas cruzadas — Anna\n\nForte \u003e\u003e Desfiladero carmesí\nElegante saqueadora de deseos, no hay anhelo que escape a su atenta mirada. Ni siquiera aquellos deseos que moran en lo más profundo del alma, de los cuales ni el propio sujeto que desea es consciente, escapan a sus ojos. Para Anna, los apegos y deseos cobran formas florales y espinosas.\nAdemás de ser capaz de usar deseos tras transformarlos en rosas rojas como la sangre, las cuales recoge, también tiene capacidades de control mental. Es capaz de «cortar» la memoria conectada a los deseos así recogidos. Puede hacer que de los deseos que sostiene en su mano broten espinas. Cuando esto sucede, se transforman en brutales armas de color carmesí que hacen trizas al enemigo.\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Anna",
       "type": "VIDEO",
-      "url": "https://x.com/i/status/2123251164695380476",
+      "url": "https://x.com/WW_ES_Official/status/2123251164695380476",
       "media": [
         {
           "kind": "video",
@@ -29968,7 +29968,7 @@ var WUWA_ES = {
       "date": "2026-11-20T03:00:01Z",
       "text": "Antropoceno de poslamento: Estrellas cruzadas\n\n«¡Tranqui! ¡A partir de ahora, déjamelo todo a mí!» — Lucielle\n\nArchivo \u003e\u003e\nBuscadora de Oro de orejas gatunas, natural de Roca Búfalo. Busca convertirse en una líder de confianza.\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Lucielle",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2123612298715791662",
+      "url": "https://x.com/WW_ES_Official/status/2123612298715791662",
       "media": [
         {
           "kind": "imagen",
@@ -29981,7 +29981,7 @@ var WUWA_ES = {
       "date": "2026-11-20T03:05:00Z",
       "text": "Antropoceno de poslamento: Estrellas cruzadas — Lucielle\n\nForte \u003e\u003e Moldeado de Tacetita\nLucielle es afín a la Tacetita, siendo capaz de comunicarse con las Criaturas Remanentes desde muy temprana edad. Las moldea usando polvo de Tacetita, trayendo aliados así conformados al campo de batalla.\nLucielle puede iniciar un simulacro de temporada de tormentas para invocar a su acompañante, un Glaucoros. Junto al resto de criaturas de Tacetita a sus órdenes, gata y Glaucoros luchan hombro con hombro, confrontando a sus enemigos frontalmente.\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Lucielle",
       "type": "VIDEO",
-      "url": "https://x.com/i/status/2123613552900768063",
+      "url": "https://x.com/WW_ES_Official/status/2123613552900768063",
       "media": [
         {
           "kind": "video",
@@ -29994,7 +29994,7 @@ var WUWA_ES = {
       "date": "2026-11-21T03:00:01Z",
       "text": "Vista previa del personaje | Anna\n\nAtributo: Fusión\nArma: Rectificador\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Anna https://t.co/LV7FYRQroJ",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2123974685109194891",
+      "url": "https://x.com/WW_ES_Official/status/2123974685109194891",
       "media": [
         {
           "kind": "imagen",
@@ -30007,7 +30007,7 @@ var WUWA_ES = {
       "date": "2026-11-21T03:05:00Z",
       "text": "«Tu deseo ahora es mío».\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Anna https://t.co/dFV4YcBf1N",
       "type": "VIDEO",
-      "url": "https://x.com/i/status/2123975941449712030",
+      "url": "https://x.com/WW_ES_Official/status/2123975941449712030",
       "media": [
         {
           "kind": "video",
@@ -30020,7 +30020,7 @@ var WUWA_ES = {
       "date": "2026-11-21T04:00:00Z",
       "text": "Vista previa del personaje | Lucielle\n\nAtributo: Espectro\nArma: Pistolas\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Lucielle https://t.co/S2TLMmyYF6",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2123989782938190278",
+      "url": "https://x.com/WW_ES_Official/status/2123989782938190278",
       "media": [
         {
           "kind": "imagen",
@@ -30033,7 +30033,7 @@ var WUWA_ES = {
       "date": "2026-11-21T04:05:00Z",
       "text": "«Je, je. ¡Ahora me toca lucirme!»\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Lucielle https://t.co/JEEx71ltTQ",
       "type": "VIDEO",
-      "url": "https://x.com/i/status/2123991039245451504",
+      "url": "https://x.com/WW_ES_Official/status/2123991039245451504",
       "media": [
         {
           "kind": "video",
@@ -30046,7 +30046,7 @@ var WUWA_ES = {
       "date": "2026-11-22T04:00:00Z",
       "text": "✦ Consejos para dormir de Lily ✦\n\n¿Te cuesta conciliar el sueño? ¿Por qué no pruebas los consejos para dormir de Lily?\n\n«Al dormir bien, tu cuerpo se recupera del cansancio y tus niveles de energía se reponen al máximo».\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/DfJyJohhgO",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2124352171366113592",
+      "url": "https://x.com/WW_ES_Official/status/2124352171366113592",
       "media": [
         {
           "kind": "imagen",
@@ -30079,7 +30079,7 @@ var WUWA_ES = {
       "date": "2026-11-23T04:00:01Z",
       "text": "Sabes que el sueño terminará algún día, pero los recuerdos seguirán brillando en la memoria.\n\n——————————————————\n[¡Un nuevo mensaje!]\n«Qué bueno tenerte de vuelta».\n«¿Qué tal tu viaje esta vez? ¿Todo bien?»\n\n\u003e\u003e\u003e Visita la web del evento «Segunda venida de Solaris: Sueños no escritos» para consultar el mensaje: https://t.co/G2WeOp5KiJ\n\n►Enlace de descarga de las ilustraciones: https://t.co/sCJjqagYxT\n\n#WutheringWaves #WutheringWavesES",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2124714563685777820",
+      "url": "https://x.com/WW_ES_Official/status/2124714563685777820",
       "media": [
         {
           "kind": "imagen",
@@ -30092,7 +30092,7 @@ var WUWA_ES = {
       "date": "2026-11-24T12:00:02Z",
       "text": "Wuthering Waves «Stars Intertwined Music Selection Vol.4» ya está disponible en Spotify, Apple Music y otras plataformas. ¡Disfruta de este cautivador viaje de sonidos resonantes!\n\n►Spotify: https://t.co/RVWbYNYSvR\n►Apple Music: https://t.co/kElLcNhhL6\n\n#WutheringWaves #WutheringWavesES",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2125197749146485096",
+      "url": "https://x.com/WW_ES_Official/status/2125197749146485096",
       "media": [
         {
           "kind": "imagen",
@@ -30105,7 +30105,7 @@ var WUWA_ES = {
       "date": "2026-11-25T03:00:01Z",
       "text": "«Retumbo abundante» Evento de dobles materiales de mejora\n\nLas Esferas Sonoras están sufriendo un colapso acelerado a causa del fenómeno de Erosionda. Sin embargo, la Energía Remanente en su interior también se está intensificando, dando lugar a materiales cada vez más valiosos...\nUsa la Placa Ondulada para obtener más recompensas de los Cristales Remanentes.\n\n✦Duración del evento✦\n26/11/2026 04:00 - 03/12/2026 03:59 (hora del servidor)\n\n✦Requisitos de participación✦\nAlcanza el nivel 14 de Unión.\n\n✦Detalles del evento✦\n1. Completa los desafíos de simulación y de falsificación durante el evento y gasta Placas Onduladas para obtener el doble de recompensas.\n2. Los desafíos de simulación y los de falsificación comparten la asignación de recompensas dobles.\n3. Durante «Retumbo abundante», puedes recoger las recompensas dobles 3 veces al día. Puedes consultar en la pantalla del evento la asignación de recompensas dobles que queda.\n4. Durante «Retumbo abundante», las recompensas dobles se reinician cada día a las 04:00 (hora del servidor).\n\n#WutheringWaves #WutheringWavesES",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2125424236408013050",
+      "url": "https://x.com/WW_ES_Official/status/2125424236408013050",
       "media": [
         {
           "kind": "imagen",
@@ -30118,7 +30118,7 @@ var WUWA_ES = {
       "date": "2026-11-25T04:00:00Z",
       "text": "Serie oficial de cómics de Wuthering Waves | Melodías Secretas - «Lily»\n\nParece estar soñando algo interesante...\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/JVbFN7FuNg",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2125439334564389238",
+      "url": "https://x.com/WW_ES_Official/status/2125439334564389238",
       "media": [
         {
           "kind": "imagen",
@@ -30131,7 +30131,7 @@ var WUWA_ES = {
       "date": "2026-11-26T03:00:02Z",
       "text": "Cinemáticas de Wuthering Waves | A quienes el tiempo dejó atrás\n\nEn su día imaginó que el viaje de vuelta a casa sería largo y arduo, solo para descubrir que su «hogar» ya no existía. \nEl regreso a casa se reveló como un exilio eterno.\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/v9kWpRSSIf",
       "type": "VIDEO",
-      "url": "https://x.com/i/status/2125786629013188888",
+      "url": "https://x.com/WW_ES_Official/status/2125786629013188888",
       "media": [
         {
           "kind": "video",
@@ -30144,7 +30144,7 @@ var WUWA_ES = {
       "date": "2026-11-26T04:00:00Z",
       "text": "Fondo de pantalla de Wuthering Waves\n\n«Esta vez… Más valiente».\n\n¡Ya están disponibles los nuevos fondos de pantalla digitales que capturan los momentos decisivos de Lily!\n▼Enlace de descarga: https://t.co/smHute4E7C\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/1K96sKqflO",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2125801721406374110",
+      "url": "https://x.com/WW_ES_Official/status/2125801721406374110",
       "media": [
         {
           "kind": "imagen",
