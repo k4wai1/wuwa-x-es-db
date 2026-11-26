@@ -1,14 +1,14 @@
 /* WUWA X ES — Archivo de tweets de https://x.com/WW_ES_Official
  * Generado automáticamente por wuwa-x-es-archive. NO EDITAR A MANO.
- * Tweets: 2447 · Último tweet: 2026-11-24T12:00:02Z
+ * Tweets: 2451 · Último tweet: 2026-11-26T04:00:00Z
  * Fuente: https://x.com/WW_ES_Official
  */
 var WUWA_ES = {
   "meta": {
-    "updated_at": "2026-11-24T16:15:03Z",
-    "count": 2447,
+    "updated_at": "2026-11-26T09:38:56Z",
+    "count": 2451,
     "first": "2023-08-19T00:00:00Z",
-    "last": "2026-11-24T12:00:02Z",
+    "last": "2026-11-26T04:00:00Z",
     "source": "https://x.com/WW_ES_Official",
     "generated_by": "wuwa-x-es-archive"
   },
@@ -30097,6 +30097,62 @@ var WUWA_ES = {
         {
           "kind": "imagen",
           "url": "https://pbs.twimg.com/media/HX4qerea0AEfvOY.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2125424236408013050",
+      "date": "2026-11-25T03:00:01Z",
+      "text": "«Retumbo abundante» Evento de dobles materiales de mejora\n\nLas Esferas Sonoras están sufriendo un colapso acelerado a causa del fenómeno de Erosionda. Sin embargo, la Energía Remanente en su interior también se está intensificando, dando lugar a materiales cada vez más valiosos...\nUsa la Placa Ondulada para obtener más recompensas de los Cristales Remanentes.\n\n✦Duración del evento✦\n26/11/2026 04:00 - 03/12/2026 03:59 (hora del servidor)\n\n✦Requisitos de participación✦\nAlcanza el nivel 14 de Unión.\n\n✦Detalles del evento✦\n1. Completa los desafíos de simulación y de falsificación durante el evento y gasta Placas Onduladas para obtener el doble de recompensas.\n2. Los desafíos de simulación y los de falsificación comparten la asignación de recompensas dobles.\n3. Durante «Retumbo abundante», puedes recoger las recompensas dobles 3 veces al día. Puedes consultar en la pantalla del evento la asignación de recompensas dobles que queda.\n4. Durante «Retumbo abundante», las recompensas dobles se reinician cada día a las 04:00 (hora del servidor).\n\n#WutheringWaves #WutheringWavesES",
+      "type": "IMAGEN",
+      "url": "https://x.com/i/status/2125424236408013050",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HX6Ct2Ra0AArZkx.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2125439334564389238",
+      "date": "2026-11-25T04:00:00Z",
+      "text": "Serie oficial de cómics de Wuthering Waves | Melodías Secretas - «Lily»\n\nParece estar soñando algo interesante...\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/JVbFN7FuNg",
+      "type": "IMAGEN",
+      "url": "https://x.com/i/status/2125439334564389238",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HX8H2C_a0AAePce.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2125786629013188888",
+      "date": "2026-11-26T03:00:02Z",
+      "text": "Cinemáticas de Wuthering Waves | A quienes el tiempo dejó atrás\n\nEn su día imaginó que el viaje de vuelta a casa sería largo y arduo, solo para descubrir que su «hogar» ya no existía. \nEl regreso a casa se reveló como un exilio eterno.\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/v9kWpRSSIf",
+      "type": "VIDEO",
+      "url": "https://x.com/i/status/2125786629013188888",
+      "media": [
+        {
+          "kind": "video",
+          "url": "https://video.twimg.com/amplify_video/2125538163523231744/vid/avc1/1920x1080/IPvy4gGMd92uNmSX.mp4?tag=29"
+        }
+      ]
+    },
+    {
+      "id": "2125801721406374110",
+      "date": "2026-11-26T04:00:00Z",
+      "text": "Fondo de pantalla de Wuthering Waves\n\n«Esta vez… Más valiente».\n\n¡Ya están disponibles los nuevos fondos de pantalla digitales que capturan los momentos decisivos de Lily!\n▼Enlace de descarga: https://t.co/smHute4E7C\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/1K96sKqflO",
+      "type": "IMAGEN",
+      "url": "https://x.com/i/status/2125801721406374110",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HX9ss3aaMAAya1Q.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HX9swJca0AABww_.jpg"
         }
       ]
     }
