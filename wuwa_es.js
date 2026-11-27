@@ -1,14 +1,14 @@
 /* WUWA X ES — Archivo de tweets de https://x.com/WW_ES_Official
  * Generado automáticamente por wuwa-x-es-archive. NO EDITAR A MANO.
- * Tweets: 2451 · Último tweet: 2026-11-26T04:00:00Z
+ * Tweets: 2455 · Último tweet: 2026-11-27T10:00:00Z
  * Fuente: https://x.com/WW_ES_Official
  */
 var WUWA_ES = {
   "meta": {
-    "updated_at": "2026-11-26T16:15:03Z",
-    "count": 2451,
+    "updated_at": "2026-11-27T16:15:05Z",
+    "count": 2455,
     "first": "2023-08-19T00:00:00Z",
-    "last": "2026-11-26T04:00:00Z",
+    "last": "2026-11-27T10:00:00Z",
     "source": "https://x.com/WW_ES_Official",
     "generated_by": "wuwa-x-es-archive"
   },
@@ -29650,7 +29650,7 @@ var WUWA_ES = {
       "date": "2026-11-12T04:00:35Z",
       "text": "El sol brilla, los ánimos están por las nubes...\n¡Es el momento ideal para poner en marcha las actividades extraescolares!\n\n¡Segunda venida de Solaris: Sueños no escritos ya está disponible! ¡Comienza una historia inolvidable en la Escuela Solaris II!\n\n#WutheringWaves #WutheringWavesES",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2120728439552651587",
+      "url": "https://x.com/WW_ES_Official/status/2120728439552651587",
       "media": [
         {
           "kind": "imagen",
@@ -29663,7 +29663,7 @@ var WUWA_ES = {
       "date": "2026-11-12T07:30:00Z",
       "text": "Queridos Errantes, \n¡El evento de creación de fans de Wuthering Waves «Lirios en un sueño marchito» ya está en vivo!\n\nPublica tu trabajo con los hashtags #WutheringWaves y #WuWaFanart en X (Twitter)/Instagram/Facebook y completa el formulario para tener la oportunidad de ganar un iPhone 18 Pro de 512G, Astritas y más. \n¡Crea tus obras de imaginación infinita para presentar el mundo de Wuthering Waves! \n▼Procede a enviar: https://t.co/6ye42iJfyU\n\n▼Consulta el enlace para más información: https://t.co/ruQZqPmOpH\n\n#WutheringWaves #WutheringWavesES #WuWaFanart",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2120781141372473733",
+      "url": "https://x.com/WW_ES_Official/status/2120781141372473733",
       "media": [
         {
           "kind": "imagen",
@@ -29684,7 +29684,7 @@ var WUWA_ES = {
       "date": "2026-11-12T10:00:04Z",
       "text": "Momentos del personaje | Lily\n\nAun así, sin retirada.\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/GRQMPmMjqU",
       "type": "VIDEO",
-      "url": "https://x.com/i/status/2120818904536658284",
+      "url": "https://x.com/WW_ES_Official/status/2120818904536658284",
       "media": [
         {
           "kind": "video",
@@ -29701,7 +29701,7 @@ var WUWA_ES = {
       "date": "2026-11-13T03:00:51Z",
       "text": "Los niños se adentran hacia el bosque Bjartr, atraídos por el brillo de las runas, que forman una matriz estelar sobre las copas de los árboles.\n\n#WutheringWaves #WutheringWavesES #Sigrika https://t.co/gCK82uKeaI",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2121075793283727764",
+      "url": "https://x.com/WW_ES_Official/status/2121075793283727764",
       "media": [
         {
           "kind": "imagen",
@@ -29714,7 +29714,7 @@ var WUWA_ES = {
       "date": "2026-11-13T04:30:59Z",
       "text": "Querido/a Errante:\n¡El evento de inicio de sesión en Discord de Wuthering Waves V3.8 está activo hoy!\n\n►Discord: https://t.co/f4qipQWJGY\nÚnete a nuestro servidor oficial de Discord y vincula tu cuenta de Discord para ganar Astrita participando en el evento de inicio de sesión.\n¡Consulta el enlace a continuación para unirte al servidor oficial de Discord de Wuthering Waves, y recuerda iniciar sesión diariamente para obtener emocionantes recompensas!\n\nDuración del evento: 13/11/2026 - 26/11/2026 (UTC+8)\nReglas del evento: Visita el servidor de Discord del evento para obtener información detallada.\n\n#WutheringWaves #WutheringWavesES",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2121098475068916215",
+      "url": "https://x.com/WW_ES_Official/status/2121098475068916215",
       "media": [
         {
           "kind": "imagen",
@@ -29727,7 +29727,7 @@ var WUWA_ES = {
       "date": "2026-11-16T03:00:01Z",
       "text": "«Y recuérdanos. Recuerda los pecados por los que las Ciudades Federadas deben pagar. Para que esta tragedia nunca se repita».\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/72dxtzWeRt",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2122162749279232443",
+      "url": "https://x.com/WW_ES_Official/status/2122162749279232443",
       "media": [
         {
           "kind": "imagen",
@@ -29740,7 +29740,7 @@ var WUWA_ES = {
       "date": "2026-11-17T03:00:00Z",
       "text": "Hora de despertarse...\n\n«Mmm... ¿Estaba flotando por las nubes?»\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/tZx8DrKM2T",
       "type": "VIDEO",
-      "url": "https://x.com/i/status/2122525131817865286",
+      "url": "https://x.com/WW_ES_Official/status/2122525131817865286",
       "media": [
         {
           "kind": "video",
@@ -29753,7 +29753,7 @@ var WUWA_ES = {
       "date": "2026-11-17T09:00:00Z",
       "text": "Wuthering Waves «Lirios en un sueño marchito» OST - «Flowers in a Dream» ya está disponible en Spotify, Apple Music y otras plataformas. ¡Disfruta de este cautivador viaje de sonidos resonantes!\n\n►Spotify: https://t.co/z331Q8oqqK\n►Apple Music: https://t.co/Pj53Uf1cNv\n\n#WutheringWaves #WutheringWavesES",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2122615726859309545",
+      "url": "https://x.com/WW_ES_Official/status/2122615726859309545",
       "media": [
         {
           "kind": "imagen",
@@ -29778,7 +29778,7 @@ var WUWA_ES = {
       "date": "2026-11-17T09:05:00Z",
       "text": "Wuthering Waves «Segunda venida de Solaris: Sueños no escritos» OST - «After School Hours» ya está disponible en Spotify, Apple Music y otras plataformas. ¡Disfruta de este cautivador viaje de sonidos resonantes!\n\n►Spotify: https://t.co/9MAe7Zu7U4\n►Apple Music: https://t.co/HHuauILt1Q\n\n#WutheringWaves #WutheringWavesES",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2122616985859022896",
+      "url": "https://x.com/WW_ES_Official/status/2122616985859022896",
       "media": [
         {
           "kind": "imagen",
@@ -29799,7 +29799,7 @@ var WUWA_ES = {
       "date": "2026-11-17T11:00:03Z",
       "text": "Canal nocturno de Podcast Pionero | Lily\n\nQue tu alma no vague más. \nQue la belleza de nuestros sueños ilumine la realidad.\n\n※Aviso: haz clic en el icono CC para activar los subtítulos y disfrutar de una mejor experiencia.\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/iWji0CJQPp",
       "type": "VIDEO",
-      "url": "https://x.com/i/status/2122645940654035056",
+      "url": "https://x.com/WW_ES_Official/status/2122645940654035056",
       "media": [
         {
           "kind": "video",
@@ -29812,7 +29812,7 @@ var WUWA_ES = {
       "date": "2026-11-18T02:00:01Z",
       "text": "«Bloques de Lahai-Roi: Giros» Evento casual\n\nPrepárate para la nueva actualización de «Bloques de Lahai-Roi»: ¡Y ahora trae la anhelada función de rotar! Se rumorea que la actualización podría traer más mecánicas ocultas...\n\n✦Duración del evento✦\n19/11/2026 04:00 - 03/12/2026 03:59 (hora del servidor)\n\n✦Recompensas del evento✦\nAstrita x400, Poción de Resonancia premium x9, Núcleo de energía premium x6, Tubo Sellado premium x6, Suministro avanzado de falsificación: Lahai-Roi x14, Caja de materiales avanzada: Tierra de Xuanfang x28, Moneda Caparazón x239,999\n\n✦Requisitos de participación✦\nAlcanza el nivel 14 de Unión.\n\n✦Detalles del evento✦\n· Se desbloqueará una nueva fase cada día durante el evento. Cada fase tiene dos dificultades: fácil y difícil. Supera la dificultad fácil para desbloquear el desafío difícil. Completa los objetivos de cada fase para obtener recompensas.\n· Arrastra los bloques a la cuadrícula. Completa una fila o columna para eliminar bloques y ganar puntos. Cuando se agote el lote de bloques suministrado en la parte derecha, se proveerá un lote nuevo.\n· Se añade la función de rotación de bloques. Arrastra y gira los bloques para colocarlos en los huecos y eliminarlos más rápido.\n· Incluye 2 modos. Modo por puntos: Elimina varias líneas simultáneamente para ganar más puntos. Alcanza la puntuación objetivo para superar la fase. Modo recolección de medallas: Elimina bloques que contengan medallas para recolectarlas. Alcanza la cantidad objetivo de medallas para superar la fase.\n\n#WutheringWaves #WutheringWavesES",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2122872423120826539",
+      "url": "https://x.com/WW_ES_Official/status/2122872423120826539",
       "media": [
         {
           "kind": "imagen",
@@ -29838,7 +29838,7 @@ var WUWA_ES = {
       "date": "2026-11-18T03:05:00Z",
       "text": "Rosas y deseos\n\n¡Wuthering Waves: Embers of the Everbright — Capítulo del año estará disponible el 22 de diciembre!\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Anna https://t.co/V7eAXmCJsE",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2122888777060495365",
+      "url": "https://x.com/WW_ES_Official/status/2122888777060495365",
       "media": [
         {
           "kind": "imagen",
@@ -29851,7 +29851,7 @@ var WUWA_ES = {
       "date": "2026-11-18T03:10:00Z",
       "text": "Verdad e ilusión\n\n¡Wuthering Waves: Embers of the Everbright — Capítulo del año estará disponible el 22 de diciembre!\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #April https://t.co/QdgBC7ztnp",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2122890034990952682",
+      "url": "https://x.com/WW_ES_Official/status/2122890034990952682",
       "media": [
         {
           "kind": "imagen",
@@ -29864,7 +29864,7 @@ var WUWA_ES = {
       "date": "2026-11-18T03:15:00Z",
       "text": "Silencio y filo afilado\n\n¡Wuthering Waves: Embers of the Everbright — Capítulo del año estará disponible el 22 de diciembre!\n\n#NewFederation #ChapteroftheYear #WutheringWaves4ꓸ0 #Gordia https://t.co/RL1u3WHUyr",
       "type": "IMAGEN",
-      "url": "https://x.com/i/status/2122891293072248878",
+      "url": "https://x.com/WW_ES_Official/status/2122891293072248878",
       "media": [
         {
           "kind": "imagen",
@@ -30153,6 +30153,122 @@ var WUWA_ES = {
         {
           "kind": "imagen",
           "url": "https://pbs.twimg.com/media/HX9swJca0AABww_.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2126149014077030500",
+      "date": "2026-11-27T03:00:01Z",
+      "text": "Cinemáticas de Wuthering Waves | Una sonrisa en incontables mañanas\n\nDeja en el ayer todo el dolor y las despedidas. \nAhora corre, corre hacia el mañana.\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/hhuGoX81vI",
+      "type": "VIDEO",
+      "url": "https://x.com/WW_ES_Official/status/2126149014077030500",
+      "media": [
+        {
+          "kind": "video",
+          "url": "https://video.twimg.com/amplify_video/2125917433932492801/vid/avc1/1920x1080/iqSlW72Oe1wsW1oU.mp4?tag=29"
+        }
+      ]
+    },
+    {
+      "id": "2126164112342151677",
+      "date": "2026-11-27T04:00:01Z",
+      "text": "«Que tu alma no vague más».\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/2D8hBkpkEB",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2126164112342151677",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYDM26ka8AAUcEb.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYDM25gbAAEC8bx.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYDM25sbUAAsHbZ.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYDM27jaYAAsuou.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYDM25pbUAAwbrM.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYDM25eaUAElrz-.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYDM25WasAAj2sZ.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYDM25baQAAVmKA.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYDM27kbEAAnHz9.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYDM25oasAAGzB4.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYDM25Xa0AA70NT.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2126171661267337433",
+      "date": "2026-11-27T04:30:01Z",
+      "text": "¡Muy buenas, Errantes! ¡El equipo de Meta Games os saluda!\nSegunda venida de Solaris: Sueños por escribir ha sido todo un éxito desde su lanzamiento, ¡y nos da mucha alegría saber que lo estáis disfrutando tanto🐾!\n\n¡Ha llegado el momento de echar cuentas sobre la vida en el campus!\n¡Hemos descubierto un montón de curiosidades! Desenlaces de lo más inesperados, Insignias escolares coleccionables y un sinfín de artículos que se han vuelto muy populares en las tiendas. ¡Qué locura!\nY tú, ¿qué tipo de estudiante de la Escuela Solaris II eres?\n\n※¡Cuidado! El siguiente contenido incluye spoilers. Si aún no has jugado a Segunda venida de Solaris: Sueños por escribir, ¡vuelve cuando te lo hayas pasado! ¡Te estaremos esperando, miau! 🐱\n\n#WutheringWaves #WutheringWavesES",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2126171661267337433",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYGfKHoasAAyJiG.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYGfKHvawAAzVFu.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYGfKHva8AAiVhx.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYGfKHqbIAIYpQL.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYGfKHzasAAwudN.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYGfKHxaAAAEroi.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYGfKHxbAAAU-mp.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2126254706779693205",
+      "date": "2026-11-27T10:00:00Z",
+      "text": "Las penas del pasado se dispersan con el viento. Todo se desvanece... Todo salvo la persistente fragancia que la guía hacia un dulce mañana.\n\n#WutheringWaves #WutheringWavesES #Lily https://t.co/eu7xiK16ht",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2126254706779693205",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYHOsioaEAA3B7z.jpg"
         }
       ]
     }
