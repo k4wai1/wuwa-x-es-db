@@ -1,14 +1,14 @@
 /* WUWA X ES — Archivo de tweets de https://x.com/WW_ES_Official
  * Generado automáticamente por wuwa-x-es-archive. NO EDITAR A MANO.
- * Tweets: 2455 · Último tweet: 2026-11-27T10:00:00Z
+ * Tweets: 2457 · Último tweet: 2026-11-28T04:00:44Z
  * Fuente: https://x.com/WW_ES_Official
  */
 var WUWA_ES = {
   "meta": {
-    "updated_at": "2026-11-27T16:15:05Z",
-    "count": 2455,
+    "updated_at": "2026-11-28T04:15:04Z",
+    "count": 2457,
     "first": "2023-08-19T00:00:00Z",
-    "last": "2026-11-27T10:00:00Z",
+    "last": "2026-11-28T04:00:44Z",
     "source": "https://x.com/WW_ES_Official",
     "generated_by": "wuwa-x-es-archive"
   },
@@ -30269,6 +30269,36 @@ var WUWA_ES = {
         {
           "kind": "imagen",
           "url": "https://pbs.twimg.com/media/HYHOsioaEAA3B7z.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2126511560944505056",
+      "date": "2026-11-28T03:00:39Z",
+      "text": "✦ Día de Trabajo de Lily ✦\n\n«Ya he apuntado todo lo que tengo que hacer hoy... ¡Manos a la obra! A ver esas tareas...»\n\nLily abre su libreta: preparar perfumes, hacer té calentito, organizar los suministros... Como maquinista, Lily está lista para empezar una nueva jornada.\n¡Sigue el diario de trabajo de Lily, busca los objetos que necesita por el vagón y ayúdala a completar todas las tareas del día!\n\n#WutheringWaves #WutheringWavesES #Lily",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2126511560944505056",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYLi-4qbEAAz-UB.jpg"
+        },
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYLi_b0aIAAQRqE.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2126526681242624127",
+      "date": "2026-11-28T04:00:44Z",
+      "text": "El mayor espectáculo de todos comienza esta noche.\n\n#WutheringWaves #WutheringWavesES #Hiyuki https://t.co/6as1TihIV2",
+      "type": "IMAGEN",
+      "url": "https://x.com/WW_ES_Official/status/2126526681242624127",
+      "media": [
+        {
+          "kind": "imagen",
+          "url": "https://pbs.twimg.com/media/HYLwvhzboAAnSP7.jpg"
         }
       ]
     }
